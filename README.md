@@ -11,3 +11,4 @@ https://pt.aliexpress.com/item/4001232791244.html?spm=a2g0s.9042311.0.0.256db90a
 
 placa.png
 
+https://github.com/lohanmattos/controle_relay_http/blob/main/placa.png
